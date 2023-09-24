@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: crimsonfnix.github.io/portfolio/lib
+-- import: fastn-community.github.io/bling/quote
 
 -- lib.page:
 
@@ -23,5 +24,9 @@ cover: $assets.files.assets/IMG_0041.png
 
 im currently pursuing mechanical engineering in MES collage of engineering Kuttipuram. wish to continue pursuing my dream and go beyond
 
+-- quote.chalice: Nelson Mandela
+
+The greatest glory in living lies not in never falling, but in rising every time
+we fall.
 
 -- end: lib.page
